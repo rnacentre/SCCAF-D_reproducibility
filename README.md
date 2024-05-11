@@ -1,5 +1,5 @@
 # SCCAF-D_reproducibility
-Main figures codes.
+Figures codes.
 --------
 
 Fig. 1 includes the codes of Main figure 1.
