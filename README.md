@@ -1,6 +1,6 @@
-# SCCAF-D_reproducibility
-Figures codes.
---------
+SCCAF-D_reproducibility
+======
+**The code that generates the figures for this study**
 
 Fig. 1 includes the codes of Main figure 1.
 
