@@ -22,6 +22,6 @@ How to cite
 -----
 For citation please refer to this:
 
-Feng,S *et al*. Alleviating batch effects in cell type deconvolution.
+Feng *et al*. Alleviating batch effects in cell type deconvolution.
 
 The current version is not acceptable.
