@@ -8,7 +8,7 @@ This repository contains Jupyter notebooks and codes to reproduce the results an
 
 The repository is organized as follows:
 
-- `Fig. 1`: includes the codes of Main figure 1.
+`Fig. 1`: includes the codes of Main figure 1.
 
 `Fig. 3`: includes the codes of Main figure 3.
 
