@@ -32,13 +32,15 @@ The repository is organized as follows:
 
 `Extended Fig. 7`: includes the codes of Extended data Fig. 4.
 
-The dataset used in https://doi.org/10.6084/m9.figshare.27263982.v1.
+The dataset used in https://doi.org/10.6084/m9.figshare.27263982.v1
+        
+        .
 
 
 ## Citation
 For citation and further information please refer to this: 
 
-Shuo Feng, Liangfeng Huang, Anna Vathrakokili Pournara, Ziliang Huang, Xinlu Yang, Yongjian Zhang, Alvis Brazma, Ming Shi, Irene Papatheodorou, Zhichao Miao "Alleviating batch effects in cell type deconvolution." (Under review)
+Feng, S., Huang, L., Pournara, A.V. et al. Alleviating batch effects in cell type deconvolution with SCCAF-D. Nat Commun 15, 10867 (2024). https://doi.org/10.1038/s41467-024-55213-x.
 
 Thank you for your interest in our work.
 
