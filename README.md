@@ -16,7 +16,7 @@ The repository is organized as follows:
 
 `Fig. 5`: includes the codes of Main figure 5.
 
-`Fig. 6`: includes the codes of Main figure 5.
+`Fig. 6`: includes the codes of Main figure 6.
 
 The dataset used in https://doi.org/10.6084/m9.figshare.27263982.v1.
 
