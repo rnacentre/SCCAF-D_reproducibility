@@ -32,10 +32,7 @@ The repository is organized as follows:
 
 `Extended Fig. 7`: includes the codes of Extended data Fig. 4.
 
-The dataset used in https://doi.org/10.6084/m9.figshare.27263982.v1
-        
-        .
-
+The dataset used in https://doi.org/10.6084/m9.figshare.27263982.v1.
 
 ## Citation
 For citation and further information please refer to this: 
