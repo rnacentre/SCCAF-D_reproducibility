@@ -18,20 +18,6 @@ The repository is organized as follows:
 
 `Fig. 6`: includes the codes of Main figure 5.
 
-`Extended Fig. 1`: includes the codes of Extended data Fig. 1.
-
-`Extended Fig. 2`: includes the codes of Extended data Fig. 2.
-
-`Extended Fig. 3`: includes the codes of Extended data Fig. 3.
-
-`Extended Fig. 4`: includes the codes of Extended data Fig. 4.
-
-`Extended Fig. 5`: includes the codes of Extended data Fig. 4.
-
-`Extended Fig. 6`: includes the codes of Extended data Fig. 4.
-
-`Extended Fig. 7`: includes the codes of Extended data Fig. 4.
-
 The dataset used in https://doi.org/10.6084/m9.figshare.27263982.v1.
 
 ## Citation
